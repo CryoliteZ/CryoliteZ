@@ -1,6 +1,6 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Alvin!
 
-### I moved my main Github account to to [alvinbhou](https://github.com/alvinbhou).
+### I moved my main Github account to [alvinbhou](https://github.com/alvinbhou).
 
 CryoliteZ is currently inacitive so visit https://github.com/alvinbhou for all my current and past projects.
 
